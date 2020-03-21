@@ -42,7 +42,7 @@ preserveTaxonomyNames = true
 
 [params]
     since = 2015
-    author = "Yu-L.in"                           # Author's name
+    author = "LuLinLin"                           # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
     subtitle = "行者"         # Subtitle
     cdn_url = ""           # Base CDN URL
@@ -63,9 +63,9 @@ preserveTaxonomyNames = true
  #   Twitter = "xxoo"
     Email   = "kvylin@gmail.com"
   #  Instagram = "xxoo"
-    Wechat = "/images/me/wechat.png"  # Wechat QRcode image
+  #  Wechat = "/images/me/wechat.png"  # Wechat QRcode image
   #  Facebook = "xxoo"
-    Telegram = "xxoo"
+  #  Telegram = "xxoo"
   #  Dribbble = "xxoo"
   #  Medium = "xxoo"
 
